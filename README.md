@@ -1,13 +1,23 @@
 <h1 align="center">Hi 👋, I'm Islam Abdelghaffar</h1>
-<h3 align="center">>I am a student in Duisburg-Essen University Software Engineering department(Duisburg-Germany) in the 6th semester</h3>
 
-- 🌱 I’m currently learning **Bootstrap 4, Javascript ES6, DOM Manipulation, jQuery, Bash, Command Line, Git, GitHub and Version Control, Backend Web Development , Node.js, NPM, Express.js, EJS, REST, APIs, Databases, SQL, MongoDB, Mongoose, Authentication, Firebase, React.js, React Hooks, Web Design, Deployment with GitHub Pages, Heroku and MongoDB Atlas, Web3 Development on the Internet Computer , Blockchain technology, Token contract development, NFT minting, buying and selling logic**
+Software Engineer with experience developing high-performance applications in C# and .NET, focusing on large-scale data processing, parallel computing, and hardware automation.
 
-- 📫 How to reach me **islam.abdelghaffar@stud.uni-due.de**
+At Oxford Instruments, I work on systems involving memory-mapped data access, hardware driver validation, and performance optimization. My projects include SIMD-accelerated algorithms, large dataset processing, automated hardware testing frameworks, and interactive data visualization solutions.
 
-- 📄 Know about my experiences [https://islamabdelghaffar.github.io/CV/](https://islamabdelghaffar.github.io/CV/)
+I enjoy solving complex engineering problems, improving system performance, and building maintainable software solutions that bridge hardware and software environments.
 
+Core skills:
+• C#
+• .NET
+• Parallel Programming
+• Memory-Mapped Files
+• Win32/Hardware Drivers
+• Software Testing & Automation
+• SQL
+• React
+• Data Visualization
 <h3 align="left">Connect with me:</h3>
+https://www.linkedin.com/in/islam-abdelghaffar-9b7203194/
 <p align="left">
 </p>
 
